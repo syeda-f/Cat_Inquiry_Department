@@ -1,4 +1,4 @@
-# 🐱 Cat Inquiry Department
+# Cat Inquiry Department
 
 Cat Inquiry Department is a fun detective game where players solve mystery cases involving cats. Players collect clues, investigate suspects, and solve each case using logic and observation.
 
@@ -14,7 +14,7 @@ The project was built with React, TypeScript, Vite, and Firebase.
 * Store game data in Firestore
 * Responsive design for desktop and mobile
 
-## Technologies Used
+## Tech Stack
 
 * React
 * TypeScript
