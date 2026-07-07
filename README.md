@@ -75,6 +75,12 @@ public/
 package.json
 vite.config.ts
 ```
+## Security
+
+* Firebase Authentication
+* Firestore Security Rules
+* Environment variables for Firebase configuration
+* Security scans performed using **Aikido Security**
 
 ## Future Improvements
 
